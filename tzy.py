@@ -1134,10 +1134,8 @@ def approval():
         print(f'{magenta}╰────────────────────────────────────────────────────────────╯')
         time.sleep(0.1)
         urls = [
-            "https://github.com/aaaaaaaarthur07/APPROVALSHEESH/blob/main/1.txt",
-            "https://github.com/aaaaaaaarthur07/APPROVALSHEESH/blob/main/2.txt",
-            "https://github.com/aaaaaaaarthur07/APPROVALSHEESH/blob/main/3.txt",
-            "https://github.com/aaaaaaaarthur07/APPROVALSHEESH/blob/main/4.txt"
+            "https://github.com/nathanielromerorfcp/approval/blob/main/OtherTool/approval.py"
+         
         ]        
         key_found = False
         for url in urls:
